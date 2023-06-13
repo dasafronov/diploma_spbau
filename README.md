@@ -17,7 +17,7 @@ This project requires the following dependencies:
 
 - Python 3.x
 - NumPy
-- SciPy
+- Scikit-learn
 - Matplotlib
 - OpenCV
 
